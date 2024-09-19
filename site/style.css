@@ -1,0 +1,25 @@
+body{
+    background-image: url(telainicial.png);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+}
+
+@font-face{
+    font-family: kalam;
+    src: url(kalamaya-old.ttf);
+}
+
+#titulo{
+    font-family: kalam;
+    font-weight: bold;
+    text-align: center;
+    color: #322870;
+}
+
+h3{
+    text-align: center;
+    color: #FFFFFF;
+    position: fixed;
+    text-align: calc(100x,100x);
+}
+
